@@ -1,40 +1,31 @@
-# Case Study 01 – Borderline Content Assessment
-
 ## 🧩 Case Summary
-A user-uploaded post contained potentially harmful language that could be interpreted
-as either contextual discussion or indirect harassment, depending on intent.
+A user-uploaded post contained language that raised concerns around harassment, but its meaning depended heavily on context. While some readers could interpret it as indirect harassment, others might reasonably view it as contextual or metaphorical commentary.
 
 ## 📜 Relevant Policy Areas
 - Harassment & Hate
-- Contextual Threats
 - Abusive Conduct (Borderline)
+- Contextual Interpretation
 
 ## 🔍 Assessment Process
 
 ### 1. Policy Grounding
-The content did not explicitly violate policy thresholds for direct threats or hate speech,
-but fell into a gray area requiring contextual review.
+The content did not clearly meet the policy threshold for direct harassment or threats. However, it sat close enough to enforcement boundaries that a contextual review was necessary rather than an immediate decision.
 
 ### 2. Context & Intent Evaluation
-- No direct target was clearly identified
-- Language appeared metaphorical rather than literal
-- User history showed no prior enforcement actions
+There was no clearly identifiable target in the language used, and the phrasing appeared more metaphorical than literal. The user’s account history also showed no prior enforcement actions, which reduced confidence that the post was intended to harass.
 
 ### 3. Risk Severity Assessment
-- Potential for misinterpretation by viewers
-- Low likelihood of real-world harm
-- Medium contextual sensitivity
+While the post carried some risk of being misinterpreted by viewers, the likelihood of real-world harm appeared limited. The primary concern was contextual sensitivity rather than direct safety impact.
 
 ### 4. Enforcement Decision
 **Action taken:** Allow with monitoring  
-**Rationale:** Content did not meet removal threshold, but warranted observation
-for potential escalation.
+This decision prioritized avoiding over-enforcement while keeping visibility on potential escalation. Although the content did not justify removal at the time, it remained a case where future context could change the enforcement outcome.
 
 ## ⚖️ Trade-offs Considered
-- Over-enforcement risk vs. user expression
-- Platform safety vs. contextual nuance
+- Avoiding unnecessary removal versus protecting users from potential harm  
+- Preserving user expression while maintaining platform safety  
 
 ## 🧠 Key Takeaways
-- Importance of consistent policy interpretation
-- Value of contextual signals in enforcement decisions
-- Need for proportional responses in ambiguous cases
+- Policy boundaries are not always binary and require judgment  
+- Contextual signals often carry more weight than isolated wording  
+- Proportional enforcement helps maintain consistency in borderline cases
